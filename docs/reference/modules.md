@@ -189,7 +189,7 @@ const { myVariable, myFunction } = require("./myModule");
 
 #### `export`と`module.exports`の違い
 
-`import`と`require`は、他のモジュールから値をインポートするためのものでした。これと対をなすものとして、`export`と`module.export`があります。これらは、他のモジュールに値をエクスポートするためのものです。`export`と`module.export`も、それぞれ異なるモジュールシステムで使われます。
+`import`と`require`は、他のモジュールから値をインポートするためのものでした。これと対をなすものとして、`export`と`module.exports`があります。これらは、他のモジュールに値をエクスポートするためのものです。`export`と`module.exports`も、それぞれ異なるモジュールシステムで使われます。
 
 ##### export
 
